@@ -6,11 +6,11 @@ int main()
     printf("Roll no. 25316\n");
 
     int a, b, c;
-    printf("Enter the for value a :");
+    printf("Enter the value for a :");
      scanf("%d", &a);
-    printf("Enter the for value b :");
+    printf("Enter the value for b :");
      scanf("%d", &b);
-    printf("Enter the for value c :");
+    printf("Enter the value for c :");
      scanf("%d", &c);
     if(a>b)
     {
